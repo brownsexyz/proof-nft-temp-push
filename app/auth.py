@@ -1,0 +1,1 @@
+# JWT-based wallet authentication placeholder

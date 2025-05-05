@@ -1,0 +1,1 @@
+# IPFS pinning helper placeholder

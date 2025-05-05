@@ -1,0 +1,1 @@
+# Upload + mint endpoints placeholder
